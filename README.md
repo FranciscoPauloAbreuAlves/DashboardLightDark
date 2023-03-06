@@ -1,0 +1,2 @@
+# DashboardLightDark
+Dashboard estático
